@@ -1,6 +1,5 @@
-# nhom11-nhapmon
-
-Dự án đầu tiên của tôi
-
-Dang Chi Bao 25161099 HEHEHE
-
+Thông tin thành viên
+Nguyễn Thành Phát-25161174-
+Bùi Lâm Thông-25161204
+Lê Phong Dinh-25161107
+Đặng Chí Bảo-
